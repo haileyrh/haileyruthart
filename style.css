@@ -1,0 +1,38 @@
+html {
+    background: rgb(252, 248, 242);
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    background: rgb(252, 248, 242);
+    font-family: "New Spirit";
+    font-size: 1em;
+    color: rgb(47 47 48);
+    line-height: 1.5;
+    margin: 0 auto;
+    width: 100%;
+    font-weight: 300;
+}
+
+ul {
+    padding-top: 0em;
+}
+
+nav ul {
+    margin: 1em 2em 1em 2em;
+    font-size: 1.25em; 
+    padding: 2em;
+}
+
+nav ul li {
+    display: inline;
+    font-family: sans-serif;
+    text-decoration-line: underline;
+    padding-right: 4em;
+    padding-left: 4em;
+    font-weight: 500;
+}
+
+li {
+    list-style-type: none;
+}
